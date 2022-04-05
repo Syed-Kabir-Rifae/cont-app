@@ -14,7 +14,7 @@ function App() {
     <div>Hello World
       <Header />
       <AddConatct /><br></br>
-      <ContactList contacts={contacts} />
+      <ContactList contacts={contacts} /><br></br>
       {/* <ContactCard /> */}
     </div>
     
